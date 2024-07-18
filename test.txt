@@ -11,3 +11,4 @@ editing from GitHub
 learning about PR
 
 checking PR before merge
+checking for approval
