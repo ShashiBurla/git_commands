@@ -9,3 +9,5 @@ adding line to test conflict from test1
 testing push origin
 editing from GitHub
 learning about PR
+
+checking PR before merge
